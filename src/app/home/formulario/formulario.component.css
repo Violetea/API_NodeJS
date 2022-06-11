@@ -1,0 +1,53 @@
+/*Estilos Formulario*/
+
+.card-formulario{
+  margin-top: 2em;
+}
+
+.input-ancho{
+  width: 80%;
+}
+
+.imagen{
+  max-width: 80%;
+}
+
+.btn-registrar, .btn-actualizar, .btn-cancelar{
+  width: 80%;
+  padding: 1em;
+}
+
+.btn-registrar, .btn-actualizar{
+  background-color: #2f2e41;
+}
+
+.pointer{
+  cursor: pointer;
+}
+
+/* Estilos Tabla*/
+
+table{
+  width: 100%;
+  height: auto;
+}
+
+td.mat-cell, th.mat-header-cell{
+  padding: 1em;
+}
+
+.card-lista{
+  margin-top: 2em;
+}
+
+.acciones{
+  text-align: right;
+}
+
+.btn-editar{
+  color: #62A6EF
+}
+
+.btn-borrar{
+  color: #f44336;
+}

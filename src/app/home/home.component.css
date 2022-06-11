@@ -1,0 +1,23 @@
+body{
+  height: 100%;
+  background-color: #673ab7;
+}
+
+.mat-toolbar.mat-primary {
+  background: #62A6EF;
+  color: #fff;
+  padding-left: 1em;
+  padding-right: 2em;
+}
+
+.appName{
+  font-weight: bold;
+  margin-bottom: auto;
+  width: 100%;
+  margin: auto;
+  padding-left: 0.5em;
+}
+
+.container{
+  padding-bottom: 2em;
+}
